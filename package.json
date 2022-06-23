@@ -19,10 +19,10 @@
   },
   "homepage": "https://github.com/russe433/u-vote#readme",
   "dependencies": {
-    "express": "^4.18.1",
-    "mysql2": "^2.3.3"
+    "express": "^4.18.1"
   },
   "devDependencies": {
-    "jest": "^28.1.1"
+    "jest": "^28.1.1",
+    "mysql2": "^2.3.3"
   }
 }
